@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <pgterms:ebook rdf:about="ebooks/17193">
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N5b8db30d9a48491e909e99ca7f596728">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">pt</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <pgterms:marc508>Produced by Ricardo Diogo and Tiago Tejo. Edited by Rita&#13;
+Farinha (Biblioteca Nacional Digital--http://bnd.bn.pt).&#13;
+(This file was produced from images generously made&#13;
+available by National Library of Portugal (Biblioteca&#13;
+Nacional de Portugal).)</pgterms:marc508>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/17193.txt.utf-8">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nb516f777f6e344d1bce60cd36f6139cf">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=utf-8</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-16T01:51:14.215303</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/17193"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">144668</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N7918b54f242e44419ee03594453167fd">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Portuguese poetry</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</pgterms:downloads>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/17193.kindle.noimages">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">118676</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/17193"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-16T01:51:16.115387</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N509cc13760f64f6fb99f52cac6e7d9c7">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc546>This ebook uses a beginning of the 20th century spelling.</pgterms:marc546>
+    <dcterms:title>Só</dcterms:title>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/17193/17193-8.zip">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58922</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/17193"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2005-11-30T17:07:40</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N49b9a0a916e04fc19239092410992ee1">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N2b237cb43b504cceb397851998a2275e">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=iso-8859-1</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N038b912862314d8888bfa5a5bcb476bb">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Poetry</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/17193.plucker">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-18T19:35:46.521252</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/17193"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N23d369b17865465193050328740d7f27">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/prs.plucker</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90712</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N927a100a19f049b5a715ccd8770c8fbc">
+        <rdf:value>PQ</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/7211">
+        <pgterms:alias>Nobre, Antonio</pgterms:alias>
+        <pgterms:webpage rdf:resource="http://en.wikipedia.org/wiki/António_Nobre"/>
+        <pgterms:webpage rdf:resource="http://pt.wikipedia.org/wiki/António_Nobre"/>
+        <pgterms:name>Nobre, António Pereira</pgterms:name>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1867</pgterms:birthdate>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1900</pgterms:deathdate>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-11-30</dcterms:issued>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="N6808a24255a049328cc2c9b8c4c2fbc6">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/17193/17193-8.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/17193"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2005-11-30T17:07:38</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ncc41734cca2c43b59066ef6a35958183">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=iso-8859-1</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">142350</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:tableOfContents>TABOA&#13;
+&#13;
+Antonio&#13;
+Menino e Moço&#13;
+Os Cavalleiros&#13;
+Purinha&#13;
+Elegia&#13;
+Os Sinos&#13;
+Terças-Feiras&#13;
+Carta A Manoel&#13;
+Para As Raparigas De Coimbra&#13;
+Luzitania No Bairro-Latino&#13;
+Os Figos Pretos&#13;
+Febre Vermelha&#13;
+Poentes De França&#13;
+Pobre Tysica!&#13;
+A Poezia Do Outonno&#13;
+Sta. Iria&#13;
+Enterro De Ophelia&#13;
+Ballada Do Caixão&#13;
+Á Toa&#13;
+A Vida&#13;
+O Somno De Joao&#13;
+Ao Canto Do Lume&#13;
+A Sombra&#13;
+O Meu Cachimbo&#13;
+Ca (ro) Da (ta) Ver (mibus)&#13;
+Quando Chegar A Hora&#13;
+Certa Velhinha&#13;
+Males De Anto&#13;
+Ah Deixem-me Dormir!</dcterms:tableOfContents>
+    <pgterms:marc260>Achevé d'imprimer le deux avril mil huit cent quatre-vingt-douze&#13;
+&#13;
+Pour&#13;
+&#13;
+LÉON VANIER&#13;
+&#13;
+éditeur&#13;
+&#13;
+Par&#13;
+&#13;
+HENRI JOUVE&#13;
+&#13;
+15, Rue Racine, 15&#13;
+&#13;
+A Paris</pgterms:marc260>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/17193.epub.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/17193"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-16T01:51:15.096406</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9466a79dbdeb4dfc8153573072c3b0dd">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83555</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/17193.html.gen">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd0c3502d0991487ba27c366077682b57">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183174</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/17193"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-16T01:51:13.538951</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/17193.qioo">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6677996feb204825978d165cd896c810">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-qioo-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-02-18T19:35:44.425353</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/17193"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120899</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="http://www.gnu.org/licenses/gpl.html"/>
+  </cc:Work>
+  <rdf:Description rdf:about="http://pt.wikipedia.org/wiki/António_Nobre">
+    <dcterms:description>pt.wikipedia</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/António_Nobre">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
