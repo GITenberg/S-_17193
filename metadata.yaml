@@ -1,0 +1,47 @@
+_repo: S-_17193
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nobre, António Pereira
+    alias: Nobre, Antonio
+    birthdate: 1867
+    deathdate: 1900
+    gutenberg_agent_id: '7211'
+    url: http://www.gutenberg.org/2009/agents/7211
+    wikipedia:
+    - http://en.wikipedia.org/wiki/António_Nobre
+    - http://pt.wikipedia.org/wiki/António_Nobre
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2005-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17193'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling.
+production_note: "Produced by Ricardo Diogo and Tiago Tejo. Edited by Rita\r\nFarinha\
+  \ (Biblioteca Nacional Digital--http://bnd.bn.pt).\r\n(This file was produced from\
+  \ images generously made\r\navailable by National Library of Portugal (Biblioteca\r\
+  \nNacional de Portugal).)"
+publication_note: "Achevé d'imprimer le deux avril mil huit cent quatre-vingt-douze\r\
+  \n\r\nPour\r\n\r\nLÉON VANIER\r\n\r\néditeur\r\n\r\nPar\r\n\r\nHENRI JOUVE\r\n\r\
+  \n15, Rue Racine, 15\r\n\r\nA Paris"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+- !lcsh 'Portuguese poetry'
+tableOfContents: "TABOA\r\n\r\nAntonio\r\nMenino e Moço\r\nOs Cavalleiros\r\nPurinha\r\
+  \nElegia\r\nOs Sinos\r\nTerças-Feiras\r\nCarta A Manoel\r\nPara As Raparigas De\
+  \ Coimbra\r\nLuzitania No Bairro-Latino\r\nOs Figos Pretos\r\nFebre Vermelha\r\n\
+  Poentes De França\r\nPobre Tysica!\r\nA Poezia Do Outonno\r\nSta. Iria\r\nEnterro\
+  \ De Ophelia\r\nBallada Do Caixão\r\nÁ Toa\r\nA Vida\r\nO Somno De Joao\r\nAo Canto\
+  \ Do Lume\r\nA Sombra\r\nO Meu Cachimbo\r\nCa (ro) Da (ta) Ver (mibus)\r\nQuando\
+  \ Chegar A Hora\r\nCerta Velhinha\r\nMales De Anto\r\nAh Deixem-me Dormir!"
+title: Só
+url: http://www.gutenberg.org/ebooks/17193
