@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/António_Nobre
     - http://pt.wikipedia.org/wiki/António_Nobre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17193#S-
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2005-11-30'
 gutenberg_type: Text
